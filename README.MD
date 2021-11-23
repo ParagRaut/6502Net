@@ -7,12 +7,13 @@ BuildStatus
 
 Master
 
-[![Build status](https://ci.appveyor.com/api/projects/status/lm20s4ffeptg00ra/branch/master?svg=true)](https://ci.appveyor.com/project/aaronmell/6502net/branch/master)
+[![.NET Build and Test](https://github.com/ParagRaut/6502Net/actions/workflows/build.yml/badge.svg)](https://github.com/ParagRaut/6502Net/actions/workflows/build.yml)
 
 
 Overview
 --------
 This is an implementation of the 6502 CPU simulator written in C#.
+Only Difference in this fork is it's in process of migrating to .Net 6
 
 Features
 
